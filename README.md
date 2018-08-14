@@ -6,4 +6,4 @@ In the future, this will contain:
 
 * Dependencies
 
-* Etc.
+* Etc
